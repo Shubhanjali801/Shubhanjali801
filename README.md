@@ -8,7 +8,7 @@
 ##  Profile Views
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat) -->
 
- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
@@ -102,7 +102,7 @@
 </p>
 </details>
 
-### 😊 Core Courses
+### Core Courses
 
 <details>
 <summary><b>Core Courses </b></summary>
@@ -122,9 +122,11 @@
 ### 📈 Most Used languages
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight) -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight" />
 </p>
+
 ### 📈 GitHub Stats
 
   <p align="center">
