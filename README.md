@@ -1,9 +1,9 @@
 <h1> About Me</h1>
 
 - 🎓 A Passionate Full Stack Devloper
-- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`Backend`,`Operating System`,`C++`,`DBMS` .
-- 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
-- ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
+- 🌱 Currently learning:<b>Problem Solving, Data Structures and Algorithms, JavaScript, SQL, OOPs, Full Stack Devlopement</b> 
+- 🎯 Goal: Land a great opportunity in Tech and build Impactful Solutions
+- ✨ Fun Fact: I'm Passionate about Creativity and Self-learning!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -143,12 +143,6 @@
 </p>
 
 ---
-
-### 🧠 Currently Working On Interview Preparation
-
-- Comptetive Programming , DSA , Dynamic Programming , Recursion
-- Development : MERN Full stack Devlopment
-- Core Subject : Operating System, C++,DBMS ,CN
 
 ### 📫 Connect with Me
 
