@@ -7,9 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight" />
-</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -124,16 +122,19 @@
 
 ### 📈 GitHub Stats
 
-<p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali801&theme=tokyonight&hide_border=false" />
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight" />
 </p>
+  
+
 ---
 
 ### 📊 Contribution Graph & Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanjali801&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanjali801&theme=tokyonight" />
 </p>
 
 ### 🏆 GitHub Achievements
@@ -146,6 +147,6 @@
 
 ### 📫 Connect with Me
 
-- 📬 [LinkedIn](https://www.linkedin.com/in/shubhanjaliambedkarnagarup/)
+- 📬 [LinkedIn](https://www.linkedin.com/in/shubhanjali-reah-b00a04297/)
 
 > ⭐ _“Keep pushing forward — one line of code at a time!”_
