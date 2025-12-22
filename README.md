@@ -5,9 +5,12 @@
 - 🎯 Goal: Land a great opportunity in Tech and build Impactful Solutions
 - ✨ Fun Fact: I'm Passionate about Creativity and Self-learning!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat)
+##  Profile Views
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat) -->
 
-
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -118,17 +121,16 @@
 
 ### 📈 Most Used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight" />
+</p>
 ### 📈 GitHub Stats
-
-
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight" />
 </p>
   
-
 ---
 
 ### 📊 Contribution Graph & Achievements
