@@ -1,9 +1,16 @@
 <h1> About Me</h1>
 
-- 🎓 A Passionate Full Stack Devloper
-- 🌱 Currently learning:<b>Problem Solving, Data Structures and Algorithms, JavaScript, SQL, OOPs, Full Stack Devlopement</b> 
-- 🎯 Goal: Land a great opportunity in Tech and build Impactful Solutions
-- ✨ Fun Fact: I'm Passionate about Creativity and Self-learning!
+🎓 A Passionate Full Stack Developer
+Crafting scalable, user-focused web applications with a strong foundation in both frontend and backend technologies
+
+🌱 Currently Learning: Problem Solving, Data Structures & Algorithms, JavaScript, SQL, OOPs, and Full Stack Development
+Continuously strengthening core computer science fundamentals to write efficient, clean, and maintainable code
+
+🎯 Goal: Land a great opportunity in the tech industry and build impactful, real-world solutions
+Driven to contribute to meaningful products that solve real problems and create long-term value
+
+✨ Fun Fact: I’m deeply passionate about creativity and self-learning
+I love exploring new technologies, experimenting with ideas, and constantly improving my skill set
 
 ##  Profile Views
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali801&label=Profile%20views&color=0e75b6&style=flat) -->
