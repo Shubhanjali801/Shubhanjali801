@@ -64,25 +64,19 @@
 
 ###  📊 GitHub Overview
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>📈 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-  <div style="display:inline-block; margin-right:20px;">
-    <h3>📈 Most Used Languages</h3>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight"
-      height="165"
-    />
-  </div>
-
-  <div style="display:inline-block;">
-    <h3>📊 GitHub Stats</h3>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight"
-      height="165"
-    />
-  </div>
-
-</div>
 
 
 ---
