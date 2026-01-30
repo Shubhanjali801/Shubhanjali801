@@ -1,26 +1,16 @@
 
 <h1> About Me</h1>
 
-🎓 A Passionate Full Stack Developer
-
-Crafting scalable, user-focused web applications with a strong foundation in both frontend and backend technologies
+🎓 A Passionate Full Stack Developer Crafting scalable, user-focused web applications with a strong foundation in both frontend and backend technologies
 
 
-🌱 Currently Learning: Problem Solving, Data Structures & Algorithms, JavaScript, SQL, OOPs, and Full Stack Development
+🌱 Currently Learning: Problem Solving, Data Structures & Algorithms, JavaScript, SQL, OOPs, and Full Stack Development Continuously strengthening core computer science fundamentals to write efficient, clean, and maintainable code
 
-Continuously strengthening core computer science fundamentals to write efficient, clean, and maintainable code
 
-  
+🎯 Goal: Land a great opportunity in the tech industry and build impactful, real-world solutions Driven to contribute to meaningful products that solve real problems and create long-term value
+ 
 
-🎯 Goal: Land a great opportunity in the tech industry and build impactful, real-world solutions
-
-Driven to contribute to meaningful products that solve real problems and create long-term value
-
-  
-
-✨ Fun Fact: I’m deeply passionate about creativity and self-learning
-
-I love exploring new technologies, experimenting with ideas, and constantly improving my skill set
+✨ Fun Fact: I’m deeply passionate about creativity and self-learning. I love exploring new technologies, experimenting with ideas, and constantly improving my skill set
 
 ##  👀 Profile Views
 <p align="center">
@@ -28,6 +18,7 @@ I love exploring new technologies, experimenting with ideas, and constantly impr
 </p>
 
   
+
 ## 🛠️ Tech Stack
 
 
@@ -47,7 +38,6 @@ I love exploring new technologies, experimenting with ideas, and constantly impr
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/> </p>
   
-
 
 
 ### ⚙️ DevOps & Cloud
@@ -88,12 +78,10 @@ I love exploring new technologies, experimenting with ideas, and constantly impr
 
 
 ---
-
   
 
 ### 📊 Contribution Graph & Achievements
 
-  
 
 <p  align="center">
 
@@ -101,30 +89,22 @@ I love exploring new technologies, experimenting with ideas, and constantly impr
 
 </p>
 
-  
 
 ### 🏆 GitHub Achievements
-
-  
 
 <p  align="center">
 
 <img  src="https://github-profile-trophy.vercel.app/?username=Shubhanjali801&theme=tokyonight&no-frame=true&row=1&column=7"  />
 
 </p>
-
-  
+ 
 
 ---
 
-  
-
 ### 📫 Connect with Me
 
-  
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/shubhanjali-reah-b00a04297/)
 
-  
 
 > ⭐ _“Keep pushing forward — one line of code at a time!”_
