@@ -24,14 +24,15 @@
 
 ### 🖥️ Backend Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" style="vertical-align:middle;"/>
+</p>
 
 
 ### 🗄️ Databases
@@ -63,18 +64,25 @@
 
 ###  📊 GitHub Overview
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>📈 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight" />
-    </td>
-    <td align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display:inline-block; margin-right:20px;">
+    <h3>📈 Most Used Languages</h3>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali801&layout=compact&theme=tokyonight"
+      height="165"
+    />
+  </div>
+
+  <div style="display:inline-block;">
+    <h3>📊 GitHub Stats</h3>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Shubhanjali801&show_icons=true&theme=tokyonight"
+      height="165"
+    />
+  </div>
+
+</div>
 
 
 ---
