@@ -31,7 +31,6 @@ I love exploring new technologies, experimenting with ideas, and constantly impr
 ## 🛠️ Tech Stack
 
 
-
 ### 🖥️ Backend Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
