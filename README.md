@@ -6,9 +6,9 @@
 
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Crafting+scalable+web+applications;Turning+ideas+into+real-world+solutions;Passionate+about+clean+%26+maintainable+code;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</a>
+</a> -->
 
 <!-- Profile Views & Followers -->
 <p>
