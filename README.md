@@ -159,7 +159,7 @@ fun_fact: >
   </tr>
 </table>
 </div>
----
+
 
 ## 🎯 Current Focus
 
@@ -220,6 +220,6 @@ fun_fact: >
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-<sub>⭐ From <a href="https://github.com/Shubhanjali801">Shubhanjali</a> — Thanks for visiting!</sub>
+<sub>⭐ From <a href="https://github.com/Shubhanjali801">SHUBHANJALI</a> — Thanks for visiting!</sub>
 
 </div>
