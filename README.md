@@ -3,6 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Shubhanjali%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=60" width="100%" />
 
+
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Crafting+scalable+web+applications;Turning+ideas+into+real-world+solutions;Passionate+about+clean+%26+maintainable+code;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
@@ -123,12 +125,40 @@ fun_fact: >
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
+<!-- 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shubhanjali801&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </a>
+</div> -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhanjali801&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🏆-Code%20Committer-FFD700?style=for-the-badge&labelColor=0d1117" /><br/>
+      <sub>Consistent daily commits</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🔥-Streak%20Keeper-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/>
+      <sub>Learning every day</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🚀-Fast%20Learner-00D4FF?style=for-the-badge&labelColor=0d1117" /><br/>
+      <sub>Picks up tech quickly</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/💡-Problem%20Solver-A3E635?style=for-the-badge&labelColor=0d1117" /><br/>
+      <sub>DSA enthusiast</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🎯-Goal%20Driven-EC4899?style=for-the-badge&labelColor=0d1117" /><br/>
+      <sub>Focused on impact</sub>
+    </td>
+  </tr>
+</table>
 </div>
-
 ---
 
 ## 🎯 Current Focus
